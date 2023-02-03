@@ -54,7 +54,7 @@
 - [x] **Gustavo Guanabara** - HTML & CSS Módulo 1/5 | 📅 12/2021 [🔗 Curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 - [x] **Gustavo Guanabara** - Javascript | 📅 11/2021 [🔗 Curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) [📦 Repositório](https://github.com/laripeanuts/cursoemvideo-exercicios)
 - [x] **Rocketseat** - Discover Conectar | 📅 10/2021 [🔗 Curso](https://app.rocketseat.com.br/discover/trails/conectar)
-- [x] **Gustavo Guanabara** - Lógica de Programação | 📅 10/2022 [🔗 Curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
+- [x] **Gustavo Guanabara** - Lógica de Programação | 📅 10/2021 [🔗 Curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
 
 ### Bootcamps
 
