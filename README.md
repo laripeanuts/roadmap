@@ -24,10 +24,10 @@
 - [ ] **Rocketseat** - Ignite NodeJS (em produção) | [🔗 Curso](https://app.rocketseat.com.br/ignite/node-js-2023?&)
   - [ ] Fundamentos
 - [ ] **Rocketseat** - Ignite React (em produção) | [🔗 Curso](https://app.rocketseat.com.br/ignite/react-js-2022)
-  - [x] Fundamentos
-  - [x] SPA - Single Page Application
-  - [x] Consumo de API e performance no React
-  - [x] NextJS
+  - [x] Fundamentos | 📅 09/2022 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-01-feed)
+  - [x] SPA - Single Page Application | 📅 01/2023 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-02-timer)
+  - [x] Consumo de API e performance no React | 📅 01/2023 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-03-money)
+  - [x] NextJS | 📅 12/2022 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-04-nextjs)
   - [ ] Design System
   - [ ] Ignite Call - Aplicação completa com NextJS, até deploy
 - [ ] **COD3R** - Entendendo Typescript | [🔗 Curso](https://www.cod3r.com.br/courses/entendendo-typescript)
