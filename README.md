@@ -21,9 +21,9 @@
   - [ ] Orientação a Objetos: Melhores técnicas com Ruby
   - [ ] Ruby on Rails 5 parte 1: Fundamentos
   - [ ] Ruby on Rails 5 parte 2: Ruby on Rails 5 parte 1: Fundamentos
-- [ ] **Rocketseat** - Ignite NodeJS | [🔗 Curso](https://app.rocketseat.com.br/ignite/node-js-2023?&)
+- [ ] **Rocketseat** - Ignite NodeJS (em produção) | [🔗 Curso](https://app.rocketseat.com.br/ignite/node-js-2023?&)
   - [ ] Fundamentos
-- [ ] **Rocketseat** - Ignite React | [🔗 Curso](https://app.rocketseat.com.br/ignite/react-js-2022)
+- [ ] **Rocketseat** - Ignite React (em produção) | [🔗 Curso](https://app.rocketseat.com.br/ignite/react-js-2022)
   - [x] Fundamentos
   - [x] SPA - Single Page Application
   - [x] Consumo de API e performance no React
