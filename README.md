@@ -37,7 +37,7 @@
 
 ### Cursos
 
-- [ ] **COD3R** - Entendendo Typescript | 📅 02/2023 | [🔗 Curso](https://www.cod3r.com.br/courses/entendendo-typescript)
+- [x] **COD3R** - Entendendo Typescript | 📅 02/2023 | [🔗 Curso](https://www.cod3r.com.br/courses/entendendo-typescript)
 - [x] **Alura** - Documentando frond end com Storybook | 📅 10/2022
 - [x] **Alura** - Formação React com Typescript | 📅 09/2022
 - [x] **Alura** - Formação Typescript | 📅 08/2022
