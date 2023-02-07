@@ -22,7 +22,8 @@
   - [ ] Ruby on Rails 5 parte 1: Fundamentos
   - [ ] Ruby on Rails 5 parte 2: Ruby on Rails 5 parte 1: Fundamentos
 - [ ] **Rocketseat** - Ignite NodeJS (em produção) | [🔗 Curso](https://app.rocketseat.com.br/ignite/node-js-2023?&)
-  - [ ] Fundamentos | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-01-fundamentos)
+  - [x] Fundamentos | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-01-fundamentos)
+  - [ ] Construção API RESTful completa
 - [ ] **Rocketseat** - Ignite React (em produção) | [🔗 Curso](https://app.rocketseat.com.br/ignite/react-js-2022)
   - [x] Fundamentos | 📅 09/2022 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-01-feed)
   - [x] SPA - Single Page Application | 📅 01/2023 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-02-timer)
