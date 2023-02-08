@@ -15,9 +15,9 @@
 ### Cursos
 
 - [ ] **Alura** - Formação Ruby on Rails | [🔗 Curso](https://cursos.alura.com.br/formacao-ruby-on-rails)
-  - [x] Lógica 1 - Lógica de programação com jogos
-  - [x] Lógica 2 - Continuando seus primeiros passos na programação
-  - [x] Lógica 3 - Mais lógica de programação em um novo jogo
+  - [x] Lógica 1 - Lógica de programação com ruby e jogos
+  - [x] Lógica 2 - Continuando seus primeiros passos na programação com ruby
+  - [x] Lógica 3 - Mais lógica de programação com ruby em um novo jogo
   - [ ] Orientação a Objetos: Melhores técnicas com Ruby
   - [ ] Ruby on Rails 5 parte 1: Fundamentos
   - [ ] Ruby on Rails 5 parte 2: Ruby on Rails 5 parte 1: Fundamentos
