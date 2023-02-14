@@ -18,7 +18,7 @@
   - [x] Lógica 1 - Lógica de programação com ruby e jogos
   - [x] Lógica 2 - Continuando seus primeiros passos na programação com ruby
   - [x] Lógica 3 - Mais lógica de programação com ruby em um novo jogo
-  - [ ] Orientação a Objetos: Melhores técnicas com Ruby
+  - [x] Orientação a Objetos: Melhores técnicas com Ruby
   - [ ] Ruby on Rails 5 parte 1: Fundamentos
   - [ ] Ruby on Rails 5 parte 2: Ruby on Rails 5 parte 1: Fundamentos
 - [ ] **Rocketseat** - Ignite NodeJS (em produção) | [🔗 Curso](https://app.rocketseat.com.br/ignite/node-js-2023?&)
