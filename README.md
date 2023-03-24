@@ -24,6 +24,7 @@
 - [ ] **Rocketseat** - Ignite NodeJS (em produção) | [🔗 Curso](https://app.rocketseat.com.br/ignite/node-js-2023?&)
   - [x] Fundamentos | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-01-fundamentos)
   - [x] Construção API RESTful completa | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-02-restfulapi)
+  - [ ] API NodeJS com SOLID | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-03-api-solid)
 - [ ] **Rocketseat** - Ignite React (em produção) | [🔗 Curso](https://app.rocketseat.com.br/ignite/react-js-2022)
   - [x] Fundamentos | 📅 09/2022 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-01-feed)
   - [x] SPA - Single Page Application | 📅 01/2023 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-02-timer)
@@ -38,6 +39,7 @@
 
 ### Cursos
 
+- [x] **Alura** - JavaScript: programação orientada a objetos | 📅 03/2023 | [🔗 Curso](https://cursos.alura.com.br/course/javascript-passos-programacao-orientada-objetos)
 - [x] **COD3R** - Entendendo Typescript | 📅 02/2023 | [🔗 Curso](https://www.cod3r.com.br/courses/entendendo-typescript)
 - [x] **Alura** - Documentando frond end com Storybook | 📅 10/2022
 - [x] **Alura** - Formação React com Typescript | 📅 09/2022
@@ -72,7 +74,7 @@
 - [ ] **Lucas Caton** - Ruby on Rails 6 | [🔗 Curso](https://curso-lucascaton.club.hotmart.com/)
 - [ ] **William Justen** - React Avançado | [🔗 Curso](https://reactavancado.com.br/)
 - [ ] **COD3R** - Regex | [🔗 Curso](https://www.cod3r.com.br/courses/regex-cursos-de-expressoes-regulares)
-- [ ] **COD3R** - Javascript Funcional e React | [🔗 Curso](https://www.cod3r.com.br/courses/javascript-funcional-reativo)
+- [ ] **COD3R** - Javascript Funcional | [🔗 Curso](https://www.cod3r.com.br/courses/javascript-funcional-reativo)
 - [ ] **COD3R** - API REST em Node.JS aplicando testes (TDD) | [🔗 Curso](https://www.cod3r.com.br/courses/api-rest--node-js-tdd)
 
 ---
