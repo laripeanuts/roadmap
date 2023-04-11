@@ -39,9 +39,9 @@
 
 ### Cursos
 
-- [x] **Alura** - JavaScript: programação orientada a objetos | 📅 03/2023 | [🔗 Curso](https://cursos.alura.com.br/course/javascript-passos-programacao-orientada-objetos)
+- [x] **Alura** - JavaScript: programação orientada a objetos | 📅 03/2023 | [🔗 Curso](https://cursos.alura.com.br/course/javascript-passos-programacao-orientada-objetos) | [🧾 Certificado](./certificados/Alura-Curso%20JavaScript_%20programa%C3%A7%C3%A3o%20orientada%20a%20objetos%20-%20EN.pdf)
 - [x] **COD3R** - Entendendo Typescript | 📅 02/2023 | [🔗 Curso](https://www.cod3r.com.br/courses/entendendo-typescript)
-- [x] **Alura** - Documentando frond end com Storybook | 📅 10/2022
+- [x] **Alura** - Documentando frond end com Storybook | 📅 10/2022 | [🧾 Certificado](./certificados/Alura%20-%20Course%20NextJS_%20documentando%20seu%20Front-end%20com%20o%20Storybook%20-%20EN.pdf)
 - [x] **Alura** - Formação React com Typescript | 📅 09/2022
 - [x] **Alura** - Formação Typescript | 📅 08/2022
 - [x] **Raro Academy** - React | Aulas Síncronas | 📅 05/2022 | [📦 Repositório](https://github.com/laripeanuts/raro-academy-videos) | [🧾 Certificado](<./certificados/Raro%20Academy%20-%20Larissa%20Rabelo%20Linhares%20Frota%20(Excelência).pdf>)
