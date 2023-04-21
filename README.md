@@ -27,12 +27,6 @@
 ### Cursos
 
 - [x] **Alura** - Formação Ruby on Rails | [🔗 Curso](https://cursos.alura.com.br/formacao-ruby-on-rails) | 📅 04/2023 | [🧾 Certificado](./certificados/Alura%20-%20Forma%C3%A7%C3%A3o%20Ruby%20On%20Rails.pdff)
-  - [x] Lógica 1 - Lógica de programação com ruby e jogos
-  - [x] Lógica 2 - Continuando seus primeiros passos na programação com ruby
-  - [x] Lógica 3 - Mais lógica de programação com ruby em um novo jogo
-  - [x] Orientação a Objetos: Melhores técnicas com Ruby
-  - [x] Ruby on Rails 5 parte 1: Fundamentos
-  - [x] Ruby on Rails 5 parte 2: Ruby on Rails 5 parte 1: Fundamentos
 - [x] **Alura** - JavaScript: programação orientada a objetos | 📅 03/2023 | [🔗 Curso](https://cursos.alura.com.br/course/javascript-passos-programacao-orientada-objetos) | [🧾 Certificado](./certificados/Alura-Curso%20JavaScript_%20programa%C3%A7%C3%A3o%20orientada%20a%20objetos%20-%20EN.pdf)
 - [x] **COD3R** - Entendendo Typescript | 📅 02/2023 | [🔗 Curso](https://www.cod3r.com.br/courses/entendendo-typescript)
 - [x] **Alura** - Documentando frond end com Storybook | 📅 10/2022 | [🧾 Certificado](./certificados/Alura%20-%20Course%20NextJS_%20documentando%20seu%20Front-end%20com%20o%20Storybook%20-%20EN.pdf)
