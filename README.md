@@ -19,13 +19,14 @@
   - [x] SPA - Single Page Application | 📅 01/2023 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-02-timer)
   - [x] Consumo de API e performance no React | 📅 01/2023 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-03-money)
   - [x] NextJS | 📅 12/2022 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-04-nextjs)
-- [ ] **Rodrigo Branas** - AngularJS | [🔗 Curso](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb)
-<!-- ### Bootcamps -->
+- [ ] **Alura** - Melhore sua aplicação React com testes automatizados | [🔗 Curso](https://cursos.alura.com.br/formacao-react-testes-automatizados)
 
 ## ✅ Concluídos
 
 ### Cursos
 
+- [x] **Alura** - Docker: criando e gerenciando containers | [🔗 Curso](https://cursos.alura.com.br/course/docker-criando-gerenciando-containers) | 📅 05/2023 | [🧾 Certificado](./certificados/Alura%20-%20Curso%20Tailwind%20CSS_%20estilizando%20a%20sua%20p%C3%A1gina%20com%20classes%20utilit%C3%A1rias.pdf)
+- [x] **Rodrigo Branas** - AngularJS | [🔗 Curso](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb)
 - [x] **Alura** - Tailwind CSS: estilizando a sua página com classes utilitárias | [🔗 Curso](https://cursos.alura.com.br/formacao-ruby-on-rails) | 📅 04/2023 | [🧾 Certificado](./certificados/Alura%20-%20Curso%20Tailwind%20CSS_%20estilizando%20a%20sua%20p%C3%A1gina%20com%20classes%20utilit%C3%A1rias.pdf)
 - [x] **Alura** - Formação Ruby on Rails | [🔗 Curso](https://cursos.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias) | 📅 04/2023 | [🧾 Certificado](./certificados/Alura%20-%20Forma%C3%A7%C3%A3o%20Ruby%20On%20Rails.pdf)
 - [x] **Alura** - JavaScript: programação orientada a objetos | 📅 03/2023 | [🔗 Curso](https://cursos.alura.com.br/course/javascript-passos-programacao-orientada-objetos) | [🧾 Certificado](./certificados/Alura-Curso%20JavaScript_%20programa%C3%A7%C3%A3o%20orientada%20a%20objetos%20-%20EN.pdf)
