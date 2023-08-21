@@ -14,18 +14,25 @@
   - [x] Fundamentos | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-01-fundamentos)
   - [x] Construção API RESTful completa | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-02-restfulapi)
   - [ ] API NodeJS com SOLID | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-03-api-solid)
+  - [ ] DDD no NodeJS
 - [ ] **Rocketseat** - Ignite React (em produção) | [🔗 Curso](https://app.rocketseat.com.br/ignite/react-js-2022)
   - [x] Fundamentos | 📅 09/2022 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-01-feed)
   - [x] SPA - Single Page Application | 📅 01/2023 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-02-timer)
   - [x] Consumo de API e performance no React | 📅 01/2023 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-03-money)
   - [x] NextJS | 📅 12/2022 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-04-nextjs)
   - [ ] Design System
+  - [ ] Ignite Call com NextJS
 - [ ] **Alura** - Melhore sua aplicação React com testes automatizados | [🔗 Curso](https://cursos.alura.com.br/formacao-react-testes-automatizados)
+- [ ] **Alura** - Formação NestJS | [🔗 Curso](https://cursos.alura.com.br/formacao-nest-js)
+   - [x] [Criando API Restful](https://cursos.alura.com.br/course/nestjs-criando-api-resftul)
+   - [ ] [Nest.js: Persistindo dados com TypeORM e PostgreSQL](https://cursos.alura.com.br/course/nest-js-typeorm)
+   - [ ] [Nest.js: lidando com migrações, relacionamentos ORM e erros em uma API](https://cursos.alura.com.br/course/nest-js-migracoes-relacionamentos-orm-erros-api)
 
 ## ✅ Concluídos
 
 ### Cursos
 
+- [x] **Alura** - Formação: Gerencie aplicações React com Typescript | [🔗 Curso](https://cursos.alura.com.br/course/docker-criando-gerenciando-containers) | 📅 05/2023
 - [x] **Alura** - Formação: Gerencie aplicações React com Typescript | [🔗 Curso](https://cursos.alura.com.br/course/docker-criando-gerenciando-containers) | 📅 05/2023 | [🧾 Certificado](./certificados/Alura%20-%20Forma%C3%A7%C3%A3o%20Gerencie%20aplica%C3%A7%C3%B5es%20React%20com%20Typescript%20-%20Alura.pdf)
 - [x] **Alura** - Docker: criando e gerenciando containers | [🔗 Curso](https://cursos.alura.com.br/course/docker-criando-gerenciando-containers) | 📅 05/2023 | [🧾 Certificado](./certificados/Alura%20-%20Curso%20Tailwind%20CSS_%20estilizando%20a%20sua%20p%C3%A1gina%20com%20classes%20utilit%C3%A1rias.pdf)
 - [x] **Rodrigo Branas** - AngularJS | [🔗 Curso](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb)
