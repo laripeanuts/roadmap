@@ -19,6 +19,7 @@
   - [x] Fundamentos | 📅 09/2022 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-01-feed)
   - [x] SPA - Single Page Application | 📅 01/2023 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-02-timer)
   - [x] Consumo de API e performance no React | 📅 01/2023 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-03-money)
+  - [x] Integrando frontend com backend com React-Query | 📅 01/2024
   - [x] NextJS | 📅 12/2022 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-04-nextjs)
   - [ ] Design System
   - [ ] Ignite Call com NextJS
