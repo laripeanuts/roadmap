@@ -23,7 +23,6 @@
   - [x] NextJS | 📅 12/2022 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-04-nextjs)
   - [ ] Design System
   - [ ] Ignite Call com NextJS
-- [ ] **Alura** - Melhore sua aplicação React com testes automatizados | [🔗 Curso](https://cursos.alura.com.br/formacao-react-testes-automatizados)
 - [ ] **Alura** - Formação NestJS | [🔗 Curso](https://cursos.alura.com.br/formacao-nest-js)
    - [x] [Criando API Restful](https://cursos.alura.com.br/course/nestjs-criando-api-resftul)
    - [ ] [Nest.js: Persistindo dados com TypeORM e PostgreSQL](https://cursos.alura.com.br/course/nest-js-typeorm)
@@ -70,6 +69,7 @@
 
 ## 🎯 Próximos estudos
 
+- [ ] **Alura** - Melhore sua aplicação React com testes automatizados | [🔗 Curso](https://cursos.alura.com.br/formacao-react-testes-automatizados)
 - [ ] **William Justen** - React Avançado | [🔗 Curso](https://reactavancado.com.br/)
 - [ ] **COD3R** - API REST em Node.JS aplicando testes (TDD) | [🔗 Curso](https://www.cod3r.com.br/courses/api-rest--node-js-tdd)
 
