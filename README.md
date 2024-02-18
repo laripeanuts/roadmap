@@ -13,7 +13,7 @@
 - [ ] **Rocketseat** - Ignite NodeJS (em produção) | [🔗 Curso](https://app.rocketseat.com.br/ignite/node-js-2023?&)
   - [x] Fundamentos | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-01-fundamentos)
   - [x] Construção API RESTful completa | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-02-restfulapi)
-  - [ ] API NodeJS com SOLID | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-03-api-solid)
+  - [x] API NodeJS com SOLID | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-03-api-solid)
   - [ ] DDD no NodeJS
 - [ ] **Rocketseat** - Ignite React (em produção) | [🔗 Curso](https://app.rocketseat.com.br/ignite/react-js-2022)
   - [x] Fundamentos | 📅 09/2022 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-01-feed)
