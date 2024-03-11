@@ -32,7 +32,9 @@
 
 ### Cursos
 
-- [x] **Alura** - Formação: Gerencie aplicações React com Typescript | [🔗 Curso](https://cursos.alura.com.br/course/docker-criando-gerenciando-containers) | 📅 05/2023
+- [x] **Flutterando/Jacob Moura** - Flutter – Aprendendo tudo sobre Design | [🔗 Curso](https://www.flutterando.com.br/) | 📅 12/2023
+- [x] **Deivid Wylliam** - Curso Flutter Básico NV1 | [🔗 Curso](https://www.youtube.com/watch?v=fcMlPEVSacs&list=PLRpTFz5_57cvo0CHf-AnojOvpznz8YO7S) | 📅 11/2023
+- [x] **Alura** - Formação: Gerencie aplicações React com Typescript | [🔗 Curso](https://cursos.alura.com.br/course/docker-criando-gerenciando-container) | 📅 05/2023
 - [x] **Alura** - Formação: Gerencie aplicações React com Typescript | [🔗 Curso](https://cursos.alura.com.br/course/docker-criando-gerenciando-containers) | 📅 05/2023 | [🧾 Certificado](./certificados/Alura%20-%20Forma%C3%A7%C3%A3o%20Gerencie%20aplica%C3%A7%C3%B5es%20React%20com%20Typescript%20-%20Alura.pdf)
 - [x] **Alura** - Docker: criando e gerenciando containers | [🔗 Curso](https://cursos.alura.com.br/course/docker-criando-gerenciando-containers) | 📅 05/2023 | [🧾 Certificado](./certificados/Alura%20-%20Curso%20Tailwind%20CSS_%20estilizando%20a%20sua%20p%C3%A1gina%20com%20classes%20utilit%C3%A1rias.pdf)
 - [x] **Rodrigo Branas** - AngularJS | [🔗 Curso](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb)
