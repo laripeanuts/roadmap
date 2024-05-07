@@ -65,6 +65,7 @@
 
 ### Projetos
 
+- [x] **Frontend Challenge** - PokeAPI | 📅 04/2024 [📦 Repositório](https://github.com/laripeanuts/pokeapi-frontend-challenge) | [🔗 Site](https://pokeapi-frontend-challenge.vercel.app/)
 - [x] **Pessoal** - Portfólio | 📅 12/2022 [📦 Repositório](https://github.com/laripeanuts/v1-portfolio) | [🔗 Site](https://www.larissarabelo.com)
 - [x] **Raro Academy** - Raro Academy Videos | 📅 05/2022 [📦 Repositório](https://github.com/laripeanuts/raro-academy-videos)
 - [x] **Raro Academy** - Tic Tac Toe | 📅 04/2022 [📦 Repositório](https://github.com/laripeanuts/react-ts-tic-tac-toe)
