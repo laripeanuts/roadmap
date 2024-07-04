@@ -23,15 +23,12 @@
   - [x] NextJS | 📅 12/2022 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-04-nextjs)
   - [ ] Design System
   - [ ] Ignite Call com NextJS
-- [ ] **Alura** - Formação NestJS | [🔗 Curso](https://cursos.alura.com.br/formacao-nest-js)
-   - [x] [Criando API Restful](https://cursos.alura.com.br/course/nestjs-criando-api-resftul)
-   - [ ] [Nest.js: Persistindo dados com TypeORM e PostgreSQL](https://cursos.alura.com.br/course/nest-js-typeorm)
-   - [ ] [Nest.js: lidando com migrações, relacionamentos ORM e erros em uma API](https://cursos.alura.com.br/course/nest-js-migracoes-relacionamentos-orm-erros-api)
 
 ## ✅ Concluídos
 
 ### Cursos
 
+- [x] **Rocketseat** - NextJS - App Router e Testes E2E Cypress | [🔗 Curso](https://app.rocketseat.com.br/classroom/next-js-app-router-e-testes) | 📅 06/2024
 - [x] **Flutterando/Jacob Moura** - Flutter – Aprendendo tudo sobre Design | [🔗 Curso](https://www.flutterando.com.br/) | 📅 12/2023
 - [x] **Deivid Wylliam** - Curso Flutter Básico NV1 | [🔗 Curso](https://www.youtube.com/watch?v=fcMlPEVSacs&list=PLRpTFz5_57cvo0CHf-AnojOvpznz8YO7S) | 📅 11/2023
 - [x] **Alura** - Formação: Gerencie aplicações React com Typescript | [🔗 Curso](https://cursos.alura.com.br/course/docker-criando-gerenciando-container) | 📅 05/2023
