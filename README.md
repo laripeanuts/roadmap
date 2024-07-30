@@ -11,10 +11,11 @@
 ## 📑 Estudos em andamento
 
 - [ ] **Rocketseat** - Ignite NodeJS (em produção) | [🔗 Curso](https://app.rocketseat.com.br/ignite/node-js-2023?&)
-  - [x] Fundamentos | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-01-fundamentos)
-  - [x] Construção API RESTful completa | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-02-restfulapi)
-  - [x] API NodeJS com SOLID | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-03-api-solid)
+  - [x] Fundamentos | 📅 02/2023 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-01-fundamentos)
+  - [x] Construção API RESTful completa | 📅 02/2023 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-02-restfulapi)
+  - [x] API NodeJS com SOLID | 📅 02/2024 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-03-api-solid)
   - [ ] DDD no NodeJS
+  - [ ] NestJS
 - [ ] **Rocketseat** - Ignite React (em produção) | [🔗 Curso](https://app.rocketseat.com.br/ignite/react-js-2022)
   - [x] Fundamentos | 📅 09/2022 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-01-feed)
   - [x] SPA - Single Page Application | 📅 01/2023 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-02-timer)
@@ -28,6 +29,7 @@
 
 ### Cursos
 
+- [x] **Rocketseat** - Redux + Zustand | [🔗 Curso](https://app.rocketseat.com.br/classroom/redux-zustand-1) | 📅 07/2024
 - [x] **Rocketseat** - NextJS - App Router e Testes E2E Cypress | [🔗 Curso](https://app.rocketseat.com.br/classroom/next-js-app-router-e-testes) | 📅 06/2024
 - [x] **Flutterando/Jacob Moura** - Flutter – Aprendendo tudo sobre Design | [🔗 Curso](https://www.flutterando.com.br/) | 📅 12/2023
 - [x] **Deivid Wylliam** - Curso Flutter Básico NV1 | [🔗 Curso](https://www.youtube.com/watch?v=fcMlPEVSacs&list=PLRpTFz5_57cvo0CHf-AnojOvpznz8YO7S) | 📅 11/2023
