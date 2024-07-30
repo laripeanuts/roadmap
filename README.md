@@ -3,9 +3,9 @@
 - [Larissa Rabelo Roadmap](#larissa-rabelo-roadmap)
   - [📑 Estudos em andamento](#-estudos-em-andamento)
   - [✅ Concluídos](#-concluídos)
+    - [Projetos](#projetos)
     - [Cursos](#cursos)
     - [Bootcamps](#bootcamps)
-    - [Projetos](#projetos)
   - [🎯 Próximos estudos](#-próximos-estudos)
 
 ## 📑 Estudos em andamento
@@ -26,6 +26,13 @@
   - [ ] Ignite Call com NextJS
 
 ## ✅ Concluídos
+
+### Projetos
+
+- [x] **Frontend Challenge** - PokeAPI | 📅 04/2024 [📦 Repositório](https://github.com/laripeanuts/pokeapi-frontend-challenge) | [🔗 Site](https://pokeapi-frontend-challenge.vercel.app/)
+- [x] **Pessoal** - Portfólio | 📅 12/2022 [📦 Repositório](https://github.com/laripeanuts/v1-portfolio) | [🔗 Site](https://www.larissarabelo.com)
+- [x] **Raro Academy** - Raro Academy Videos | 📅 05/2022 [📦 Repositório](https://github.com/laripeanuts/raro-academy-videos)
+- [x] **Raro Academy** - Tic Tac Toe | 📅 04/2022 [📦 Repositório](https://github.com/laripeanuts/react-ts-tic-tac-toe)
 
 ### Cursos
 
@@ -61,13 +68,6 @@
 - [x] **Rocketseat** - NWL eSports | 📅 09/2022 [📦 Repositório](https://github.com/laripeanuts/rs-nwl-esports)
 - [x] **Dio** - Take Blip Web Developer | 📅 03/2022 [🧾 Certificado](https://www.dio.me/certificate/9CD670C7/share)
 - [x] **Dio** - Decora Tech #2 | 📅 01/2022 [🧾 Certificado](https://www.dio.me/certificate/9CD670C7/share)
-
-### Projetos
-
-- [x] **Frontend Challenge** - PokeAPI | 📅 04/2024 [📦 Repositório](https://github.com/laripeanuts/pokeapi-frontend-challenge) | [🔗 Site](https://pokeapi-frontend-challenge.vercel.app/)
-- [x] **Pessoal** - Portfólio | 📅 12/2022 [📦 Repositório](https://github.com/laripeanuts/v1-portfolio) | [🔗 Site](https://www.larissarabelo.com)
-- [x] **Raro Academy** - Raro Academy Videos | 📅 05/2022 [📦 Repositório](https://github.com/laripeanuts/raro-academy-videos)
-- [x] **Raro Academy** - Tic Tac Toe | 📅 04/2022 [📦 Repositório](https://github.com/laripeanuts/react-ts-tic-tac-toe)
 
 ## 🎯 Próximos estudos
 
