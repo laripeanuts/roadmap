@@ -10,13 +10,22 @@
 
 ## 📑 Estudos em andamento
 
-- [ ] **Rocketseat** - Ignite NodeJS (em produção) | [🔗 Curso](https://app.rocketseat.com.br/ignite/node-js-2023?&)
+- [ ] **Rocketseat** - React Native | [🔗 Curso](https://app.rocketseat.com.br/journey/react-native-2022/contents)
+  - [x] Fundamentos | 📅 10/2024
+  - [x] Interfaces, Navegação e Armazenamento local | 📅 10/2024
+  - [ ] Componentes e API
+  - [ ] Push Notifications e Deep Linking
+  - [ ] Melhorando a experiência do usuário
+  - [ ] Offline First e Geolocalização
+  - [ ] Testes
+  - [ ] Deploy
+- [ ] **Rocketseat** - Ignite NodeJS | [🔗 Curso](https://app.rocketseat.com.br/ignite/node-js-2023?&)
   - [x] Fundamentos | 📅 02/2023 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-01-fundamentos)
   - [x] Construção API RESTful completa | 📅 02/2023 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-02-restfulapi)
   - [x] API NodeJS com SOLID | 📅 02/2024 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-node-03-api-solid)
-  - [ ] DDD no NodeJS
+  - [x] DDD no NodeJS
   - [ ] NestJS
-- [ ] **Rocketseat** - Ignite React (em produção) | [🔗 Curso](https://app.rocketseat.com.br/ignite/react-js-2022)
+- [ ] **Rocketseat** - Ignite React | [🔗 Curso](https://app.rocketseat.com.br/ignite/react-js-2022)
   - [x] Fundamentos | 📅 09/2022 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-01-feed)
   - [x] SPA - Single Page Application | 📅 01/2023 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-02-timer)
   - [x] Consumo de API e performance no React | 📅 01/2023 | [📦 Repositório](https://github.com/laripeanuts/rs-ignite-03-money)
