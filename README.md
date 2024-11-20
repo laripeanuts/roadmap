@@ -13,7 +13,7 @@
 - [ ] **Rocketseat** - React Native | [🔗 Curso](https://app.rocketseat.com.br/journey/react-native-2022/contents)
   - [x] Fundamentos | 📅 10/2024
   - [x] Interfaces, Navegação e Armazenamento local | 📅 10/2024
-  - [ ] Componentes e API
+  - [x] Componentes e API
   - [ ] Push Notifications e Deep Linking
   - [ ] Melhorando a experiência do usuário
   - [ ] Offline First e Geolocalização
